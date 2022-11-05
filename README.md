@@ -1,1 +1,3 @@
 # coinBot
+
+# DAY 1
